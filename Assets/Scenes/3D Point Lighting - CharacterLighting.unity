@@ -222,7 +222,7 @@ Light:
   serializedVersion: 11
   m_Type: 0
   m_Color: {r: 0.23113209, g: 0.81571, b: 1, a: 1}
-  m_Intensity: 3
+  m_Intensity: 90
   m_Range: 10
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
@@ -770,7 +770,7 @@ Light:
   serializedVersion: 11
   m_Type: 0
   m_Color: {r: 0.8862745, g: 0.6903948, b: 0.11372546, a: 1}
-  m_Intensity: 3
+  m_Intensity: 99
   m_Range: 10
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
@@ -1259,7 +1259,7 @@ GameObject:
   - component: {fileID: 1760606627}
   - component: {fileID: 1760606626}
   m_Layer: 0
-  m_Name: Fillight
+  m_Name: FillLight
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1273,13 +1273,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1760606624}
   serializedVersion: 2
-  m_LocalRotation: {x: 0.48854256, y: -0.2698504, z: -0.16199815, w: 0.8137958}
+  m_LocalRotation: {x: 0.42727292, y: -0.3025699, z: -0.20083185, w: 0.8279831}
   m_LocalPosition: {x: 7.209881, y: 3.2514615, z: -1.5439014}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 13358742}
-  m_LocalEulerAnglesHint: {x: 45.049, y: -57.748, z: -48.28}
+  m_LocalEulerAnglesHint: {x: 35.875, y: -56.114, z: -46.846}
 --- !u!114 &1760606626
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1314,7 +1314,7 @@ Light:
   serializedVersion: 11
   m_Type: 0
   m_Color: {r: 0.8113208, g: 0.53960484, b: 0.53960484, a: 1}
-  m_Intensity: 3
+  m_Intensity: 99
   m_Range: 10
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
@@ -1326,7 +1326,7 @@ Light:
     m_Strength: 1
     m_Bias: 0.05
     m_NormalBias: 0.4
-    m_NearPlane: 4.08
+    m_NearPlane: 4.49
     m_CullingMatrixOverride:
       e00: 1
       e01: 0
